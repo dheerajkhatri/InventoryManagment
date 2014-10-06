@@ -1,0 +1,25 @@
+﻿Build started 3/18/2014 5:17:26 PM.
+     1>Project "C:\Users\Dheeraj Khatri\Desktop\S-E_project\khatri\newone\newone\newone.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\newone.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         newone.vcxproj -> C:\Users\Dheeraj Khatri\Desktop\S-E_project\khatri\newone\Debug\newone.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\newone.unsuccessfulbuild".
+         Touching "Debug\newone.lastbuildstate".
+     1>Done Building Project "C:\Users\Dheeraj Khatri\Desktop\S-E_project\khatri\newone\newone\newone.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.44
